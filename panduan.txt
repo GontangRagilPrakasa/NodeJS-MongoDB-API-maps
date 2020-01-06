@@ -1,0 +1,25 @@
+Untuk database menggunakan mongo db 
+mongo dbhttps://cloud.mongodb.com/
+
+Untuk jsonmongodb skemacity yang disediakan oleh mongodb
+https://mongoosejs.com/docs/geojson.html
+
+untuk contoh restfull api mustafa
+https://github.com/mustofa-id/node-restful-api
+
+untuk node.js geocoder 
+https://www.npmjs.com/package/node-geocoder
+setting
+https://github.com/nchaulet/node-geocoder
+
+untuk meangmbil map
+https://developer.mapquest.com/
+
+front end map
+https://account.mapbox.com/
+
+frontawesome 5 cdn
+https://cdnjs.com/libraries/font-awesome
+
+front end
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
